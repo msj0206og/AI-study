@@ -2,7 +2,7 @@
 
 1. **개요**
     
-    ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/22c8f801-99ba-493e-86d2-6046133a623d/c40c67cf-2b1e-4d20-ba31-15e3609bc5c2/Untitled.png)
+    ![Untitled](https://github.com/msj0206og/AI-study/assets/140241405/626c16ba-b650-4a60-a85c-f417b341f302)
     
     - 생물학적 신경망에서 영감을 받아 만들어진 컴퓨터 모델
     - 복잡한 패턴인식, 분류, 예측 등 다양한 AI 모델 생성에 활용
