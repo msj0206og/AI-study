@@ -29,7 +29,7 @@
         - (이진분류 같은 경우) 결과가 임계값을 넘으면 1, 아니면 0 출력
 3. **다층 퍼셉트론**
     
-    ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/22c8f801-99ba-493e-86d2-6046133a623d/4ee39fb3-ffd2-49c1-b423-16418679b2d9/Untitled.png)
+    ![Untitled (1)](https://github.com/msj0206og/AI-study/assets/140241405/c529add9-5392-4a4f-b066-92cdf006ab53)
     
     - 개요
         - 여러개의 퍼셉트론을 조합하여 비선형 문제를 해결
